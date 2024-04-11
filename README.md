@@ -8,10 +8,10 @@
 **前提条件** - このハンズオンを進めるにあたり、以下が前提条件となります:
 - Machine Learning の基礎知識
 - 利用可能な Azure subscription. [Create an account for free](https://azure.microsoft.com/free/?WT.mc_id=A261C142F)
-- Azure ML workspace [Check this notebook for creating a workspace](../../../resources/workspace/workspace.ipynb) 
-- Compute Cluster [Check this notebook to create a compute cluster](../../../resources/compute/compute.ipynb)
+- Azure ML workspace 
+- Compute Cluster
 - Python 実行環境
-- Azure Machine Learning Python SDK v2 - [install instructions](../../../README.md)
+- Azure Machine Learning Python SDK v2
 
 ## Objective
 **学習のゴール** - このハンズオンを完了すると、以下を学習できます:
